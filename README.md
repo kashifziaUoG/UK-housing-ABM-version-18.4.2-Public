@@ -6,5 +6,5 @@ The model simulates the private rental and mortgage housing markets while consid
 
 The files included in this repository are:
 
-    1. Housing_Market_Model_18.4.2.nlogo: the ABM with a complete UI
-    2. Housing_Market_Model_A18.41.nlogo: the ABM with a simplified UI (less input parameters that the user can control)
+1. `Housing_Market_Model_18.4.2.nlog`: the ABM with a complete UI
+2. `Housing_Market_Model_A18.41.nlogo`: the ABM with a simplified UI (less input parameters that the user can control)
