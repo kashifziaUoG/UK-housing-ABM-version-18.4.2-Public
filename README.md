@@ -8,3 +8,6 @@ The files included in this repository are:
 
 1. `Housing_Market_Model_18.4.2.nlogo`: the ABM with a complete UI
 2. `Housing_Market_Model_A18.4.1.nlogo`: the ABM with a simplified UI (less input parameters that the user can control)
+3. `Housing_Model_ABPandas.py`: the ABM in Python. This requires teh installment of the Python library `ABPandas` version 0.0.34. For documentation and instructions to install, visit [https://github.com/YahyaGamal/ABPandas_Documentation][https://github.com/YahyaGamal/ABPandas_Documentation]
+
+
