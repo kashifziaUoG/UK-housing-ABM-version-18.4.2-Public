@@ -1,2 +1,4 @@
 line 32: sale_price is only mortgage value; you commented: the price of this house (either now, or when last sold); price sold and rented
 line 37: offer_date is actuaaly offer date of mortgage?
+line 42: have you used ("G": 0, # Getis-Ord z-score for the hotspot analysis); i think we can ignore it for now
+lines 43: i think "attributes" are also not needed at this point
