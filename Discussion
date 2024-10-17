@@ -1,4 +1,5 @@
 line 32: sale_price is only mortgage value; you commented: the price of this house (either now, or when last sold); price sold and rented
 line 37: offer_date is actuaaly offer date of mortgage?
 line 42: have you used ("G": 0, # Getis-Ord z-score for the hotspot analysis); i think we can ignore it for now
-lines 43: i think "attributes" are also not needed at this point
+lines 43, 81: i think "attributes" are also not needed at this point
+line 98: the records' mapping has different data types. We can probably use <String, Object> data structure. For now I have done that. It can be problematic later. But it also makes sense to make record as a class. What do you suggest? 
